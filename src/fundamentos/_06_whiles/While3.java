@@ -1,8 +1,8 @@
-package fundamentos._04_fors;
+package fundamentos._06_whiles;
 
 import java.util.Scanner;
 
-public class For3
+public class While3
 {
     public static void main(String[] args)
     {
@@ -12,17 +12,16 @@ public class For3
         System.out.println("Introduce N: ");
         n = in.nextInt();
 
-        for(int i = 1;i<=n;i++)
+        int i = 0;
+        while(i<=n)
         {
+            i++;
             if(i%5==0)
             {
                 multiplo5++;
             }
+
         }
         System.out.println("multiplos de 5: "+multiplo5);
     }
 }
-
-
-
-
