@@ -1,3 +1,5 @@
+package fundamentos._01_intro_ejercicios;
+
 public class _01_TiposDato_2
 {
     public static void main(String[] args)
