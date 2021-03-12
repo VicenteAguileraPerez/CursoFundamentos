@@ -38,28 +38,7 @@
 
 ## _09_ejercicios_figura
 
-
 > En esta carpeta, encontrarás, algunos ejercicios usando ciclos para realizar figuras con astericos.
-
-
-******
-******
-******
-
-*
-**
-***
-****
-
-
-*          *
-**        **
-***      ***
-****    **** 
-*****  *****
-************
-
-
 
 ## _10_métodos_funciones_procedimientos
 > En esta carpeta, encontrarás, algunos ejercicios usando métodos como funciones y métodos como procedimientos
